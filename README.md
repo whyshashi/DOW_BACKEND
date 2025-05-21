@@ -6,7 +6,10 @@ This is the backend API for the EHS (Environment, Health & Safety) Web Admin Pan
 
 ## 🔗 Useful Links
 
-- 🚀 **Deployed Application:**  
+- 🌐 **Landing Page:**  
+  [http://3.92.185.115](http://3.92.185.115)
+
+- 🔐 **Admin Login Page:**  
   [http://3.92.185.115/login](http://3.92.185.115/login)
 
 - 🖥️ **Frontend GitHub Repository:**  
@@ -17,7 +20,7 @@ This is the backend API for the EHS (Environment, Health & Safety) Web Admin Pan
 
 ---
 
-## 🔐 Admin Test Credentials
+## 🧪 Admin Test Credentials
 
 - **Email:** `admin@gmail.com`  
 - **Password:** `password`
