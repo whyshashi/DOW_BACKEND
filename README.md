@@ -4,6 +4,27 @@ This is the backend API for the EHS (Environment, Health & Safety) Web Admin Pan
 
 ---
 
+## 🔗 Useful Links
+
+- 🚀 **Deployed Application:**  
+  [http://3.92.185.115/login](http://3.92.185.115/login)
+
+- 🖥️ **Frontend GitHub Repository:**  
+  [https://github.com/whyshashi/DOW_FRONTEND](https://github.com/whyshashi/DOW_FRONTEND)
+
+- 🗄️ **Backend GitHub Repository:**  
+  [https://github.com/whyshashi/DOW_BACKEND](https://github.com/whyshashi/DOW_BACKEND)
+
+---
+
+## 🔐 Admin Test Credentials
+
+- **Email:** `admin@gmail.com`  
+- **Password:** `password`
+
+
+---
+
 ## 🚀 Features
 
 - 🔒 Secure authentication (JWT-based)
